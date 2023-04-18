@@ -8,6 +8,8 @@ packages = [{include = "intro_testes"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+pytest = "^7.3.1"
+black = "^23.3.0"
 
 
 [build-system]
